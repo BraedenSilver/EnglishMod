@@ -69,6 +69,14 @@ A wearable veil that renders over the player's face. Every mob within 12 blocks 
 
 ---
 
+### The Tell-Tale Heart
+
+The player can always hear a heartbeat. Killing things raises it. It calms down after a while.
+
+- *Inspired by* The Tell-Tale Heart *by Edgar Allan Poe*
+
+---
+
 ## Compatibility
 
 - **Minecraft:** 26.1.2 (Snapshot)
