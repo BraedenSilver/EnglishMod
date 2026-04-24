@@ -1,0 +1,10 @@
+{
+  "entity.moby_dick.ambient": {
+    "sounds": [
+      {
+        "name": "englishmod:moby_dick_ambient",
+        "stream": false
+      }
+    ]
+  }
+}

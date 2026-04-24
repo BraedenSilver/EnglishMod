@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "englishmod:black_veil"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "englishmod:black_veil"
+      }
+    ]
+  }
+}

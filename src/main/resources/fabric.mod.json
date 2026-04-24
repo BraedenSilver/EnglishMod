@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "englishmod",
+  "version": "1.0.0",
+  "name": "English Mod",
+  "description": "A simple Fabric mod scaffold for Minecraft 26.1.2.",
+  "authors": ["EnglishMod Author"],
+  "entrypoints": {
+    "main": ["net.englishmod.EnglishMod"],
+    "client": ["net.englishmod.EnglishModClient"]
+  },
+  "mixins": ["englishmod.mixins.json"],
+  "depends": {
+    "fabricloader": "0.19.2",
+    "fabric-api": "*",
+    "minecraft": "26.1.2"
+  }
+}

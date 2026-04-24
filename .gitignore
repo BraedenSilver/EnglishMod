@@ -1,0 +1,29 @@
+# Build output
+build/
+out/
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ / VSCode
+.idea/
+*.iml
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Runtime data (world saves, logs, crash reports)
+run/
+
+# Local mod jars (not committed — declared as localRuntime in build.gradle.kts)
+mods/
+
+# Loom generated files
+remappedSrc/
