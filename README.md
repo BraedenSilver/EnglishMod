@@ -10,7 +10,7 @@ A Minecraft Fabric mod themed around classic English literature. Adds mobs, item
 
 ![Moby Dick](MobyDick.png)
 
-A massive sperm whale that roams ocean biomes. Neutral, leaves you alone unless provoked, then retaliates. Features procedural tail and fin animation.
+A massive sperm whale that roams ocean biomes. Neutral, leaves you alone unless provoked, then retaliates.
 
 - **Health:** 80
 - **Attack:** 6 damage
@@ -30,7 +30,7 @@ A massive sperm whale that roams ocean biomes. Neutral, leaves you alone unless 
 
 *"Quoth the Raven, 'Nevermore.'"*
 
-A raven that watches from the shadows.
+A raven that watches from the shadows. Name one "Poe" with a nametag and it will respond to every chat message with "Nevermore."
 
 | Spawn Egg |
 |---|
@@ -48,7 +48,7 @@ A raven that watches from the shadows.
 
 *"A pipe of what passes for Amontillado."*
 
-Drinking it teleports you into a sealed brick chamber with walls, floor, and ceiling of bricks and glow lichen on the floor for light. No way out.
+Drinking it teleports you into a sealed brick chamber. No way out.
 
 - Stacks to 16
 - Always drinkable
