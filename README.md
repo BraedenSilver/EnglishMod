@@ -16,10 +16,27 @@ A massive sperm whale that roams ocean biomes. Neutral, leaves you alone unless 
 - **Attack:** 6 damage
 - **Behavior:** Swims freely in deep ocean. Fights back when attacked.
 - **Spawn:** Ocean biomes (natural spawning)
+- *Inspired by* Moby-Dick *by Herman Melville*
 
 | Spawn Egg |
 |---|
-| ![Moby Dick Spawn Egg](src/main/resources/assets/englishmod/textures/item/moby_dick_spawn_egg.png) |
+| ![Moby Dick Spawn Egg](docs/moby_dick_spawn_egg.png) |
+
+---
+
+### Raven
+
+![Raven](Raven.png)
+
+*"Quoth the Raven, 'Nevermore.'"*
+
+A raven that watches from the shadows.
+
+| Spawn Egg |
+|---|
+| ![Raven Spawn Egg](docs/raven_spawn_egg.png) |
+
+- *Inspired by* The Raven *by Edgar Allan Poe*
 
 ---
 
@@ -27,26 +44,28 @@ A massive sperm whale that roams ocean biomes. Neutral, leaves you alone unless 
 
 ### Amontillado Wine
 
-![Amontillado Wine](src/main/resources/assets/englishmod/textures/item/amontillado_wine.png)
+![Amontillado Wine](docs/amontillado_wine.png)
 
 *"A pipe of what passes for Amontillado."*
 
-Drinking it teleports you into a sealed brick chamber. Inspired by *The Cask of Amontillado* by Edgar Allan Poe.
+Drinking it teleports you into a sealed brick chamber with walls, floor, and ceiling of bricks and glow lichen on the floor for light. No way out.
 
 - Stacks to 16
 - Always drinkable
+- *Inspired by* The Cask of Amontillado *by Edgar Allan Poe*
 
 ---
 
 ### Black Veil
 
-![Black Veil](src/main/resources/assets/englishmod/textures/item/black_veil.png)
+![Black Veil](docs/black_veil.png)
 
-A helmet-slot wearable veil. Worn on the head, rendered as a black veil over the player's face. Inspired by *The Minister's Black Veil* by Nathaniel Hawthorne. Scares Away everything, because they are suspicious. 
+A wearable veil that renders over the player's face. Every mob within 12 blocks flees from the wearer, clearing their target, stopping their path, and running in the opposite direction. Even hostile mobs will not attack you while the veil is worn.
 
 - Armor slot: helmet
-- No armor value
+- No armor value, purely cosmetic and behavioral
 - Repairable with leather
+- *Inspired by* The Minister's Black Veil *by Nathaniel Hawthorne*
 
 ---
 
